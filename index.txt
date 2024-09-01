@@ -1,8 +1,8 @@
-InnoHub - We're available for marketing
+Farid Khan - We're available for marketing
 
 #---------- HEADER ----------#
 
-InnoHub
+Farid Khan
 
 Home
 Services
@@ -21,11 +21,12 @@ aria-label = Toggle menu
 
 #---------- HERO ----------#
 
-InnoHub Marketing Agency
+Farid  Marketing
 
 We are available for marketing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temporthem incididunt ut labore et dolore magna aliqua.
+we offer comprehensive digital marketing services tailored to meet your unique needs. Our team is ready to elevate your brand through strategic planning, innovative campaigns, and targeted solutions. Whether you're looking to boost your online presence or drive growth, we're here to help you succeed. Reach out today to start transforming your digital strategy!
+
 
 Get Started
 
@@ -104,25 +105,24 @@ aria-label = Play video
 
 About Us
 
-Lorem ipsum dolor sit amet, con se ctetur adipiscing elit. In sagittis eg esta ante, sed viverra nunc tinci dunt nec elei fend et tiram.
+**About Us**
+
+we are committed to revolutionizing digital marketing through innovation and expertise. Our team of skilled professionals leverages the latest technologies and strategies to deliver exceptional results. We focus on understanding your unique needs and crafting customized solutions that drive growth and elevate your brand. With a passion for excellence and a dedication to client success, we transform challenges into opportunities and help businesses thrive in a competitive digital landscape. Partner with us to unlock your brand’s full potential and achieve outstanding results.
 
 Who We Are
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+We are a dynamic digital marketing agency dedicated to transforming brands through innovative strategies and cutting-edge technology. Our team of experts combines creativity with data-driven insights to deliver impactful solutions that drive growth. Passionate about excellence, we partner with businesses to achieve their goals and stand out in the digital world.
 
 Our Success
 
 <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.
+Our success is defined by delivering exceptional results through cutting-edge digital marketing strategies. We pride ourselves on driving measurable growth, fostering strong client relationships, and adapting to evolving market trends. By combining data-driven insights with creative solutions, we help businesses achieve their goals and stand out in a competitive landscape.
 
 Our Mission
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in.
+Our mission is to empower businesses with innovative digital marketing solutions, driving growth through data-driven strategies and creative excellence.
 
 
 
@@ -140,11 +140,11 @@ Get Started
 
 Latest Articles Updated Weekly
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+AI is transforming digital marketing by enabling personalized experiences and predictive analytics. Embrace AI to enhance targeting, streamline content, and optimize performance for greater success.
 
 alt = How to Become a Successful Entry Level UX Designer
 
-June 16, 2022
+Sep 01, 2022
 
 How to Become a Successful Entry Level UX Designer
 
@@ -162,7 +162,6 @@ alt = Top 21 Must-Read Blogs For Creative Agencies
 
 Let's Contact With Us
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 aria-label = name
 placeholder = Your name*
@@ -186,26 +185,25 @@ Send Message
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
 
 Mail Here
-hello@luaz.com
-info@luaz.com
+faridkhan04410@gmail.com
+farid@softzix.com
 
 <ion-icon name="map-outline" aria-hidden="true"></ion-icon>
 
 Visit Here
-27 Division St, New York,
-NY 10002, USA
+Odisha Bhubaneswer
 
 <ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
 
 Call Here
-+123 456 7890
-+241 452 4526
++91 7077572478
++91 7077572478
 
 
 
 #---------- FOOTER ----------#
 
-&copy; 2022 All Rights Reserved by codewithsadee
+&copy; 2024 All Rights Reserved by Farid  Khan
 
 
 
@@ -213,4 +211,4 @@ Call Here
 
 aria-label = back to top
 
-<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+<ion-icon name="Farid Khan" aria-hidden="true"></ion-icon>
